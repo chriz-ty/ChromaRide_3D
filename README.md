@@ -106,7 +106,7 @@ For Software:
 
 # Diagrams
 ![Workflow](workflow.jpg)
-*Add caption explaining your workflow*
+*workflow of our model*
 
 
 ### Project Demo
