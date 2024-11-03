@@ -1,0 +1,11 @@
+Model Information:
+* title:	Porche 918 Spyder 2014
+* source:	https://sketchfab.com/3d-models/porche-918-spyder-2014-33ec8529a3e84cf1a3284a769221cc41
+* author:	fritgfs (https://sketchfab.com/fritgfs)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Porche 918 Spyder 2014" (https://sketchfab.com/3d-models/porche-918-spyder-2014-33ec8529a3e84cf1a3284a769221cc41) by fritgfs (https://sketchfab.com/fritgfs) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
