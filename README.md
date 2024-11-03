@@ -111,7 +111,7 @@ For Software:
 
 ### Project Demo
 # Video
-![video](demo1.mp4)
+![video](https://github.com/chriz-ty/ChromaRide_3D/blob/main/demo1.mp4)
 *Demo of the Web app that we've created*
 
 
