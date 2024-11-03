@@ -105,13 +105,13 @@ For Software:
 *Demo 3*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![Workflow](workflow.jgp)
 *Add caption explaining your workflow*
 
 
 ### Project Demo
 # Video
-![demo1.mp4]
+![video](demo1.mp4)
 *Demo of the Web app that we've created*
 
 
