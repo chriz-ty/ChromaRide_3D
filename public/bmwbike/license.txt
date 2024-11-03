@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW K1600 GTL
+* source:	https://sketchfab.com/3d-models/bmw-k1600-gtl-b78e420240f44349bd4efc21f01afe66
+* author:	Futurealiti (https://sketchfab.com/futurealiti)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW K1600 GTL" (https://sketchfab.com/3d-models/bmw-k1600-gtl-b78e420240f44349bd4efc21f01afe66) by Futurealiti (https://sketchfab.com/futurealiti) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

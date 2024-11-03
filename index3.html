@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Rolls-Royce Ghost</title>
+
+		<link rel="stylesheet" href="public/index.css">
+
+        <script async src="https://docs.opencv.org/master/opencv.js" onload="onOpenCvReady();" type="text/javascript"></script>
+
+        <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+        <script type="importmap">
+          {
+            "imports": {
+              "three": "https://unpkg.com/three@v0.163.0/build/three.module.js",
+              "three/addons/": "https://unpkg.com/three@v0.163.0/examples/jsm/"
+            }
+          }
+        </script>
+		<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval' https://docs.opencv.org https://unpkg.com; img-src 'self' data: blob:; media-src 'self' blob:;">
+	</head>
+	<body>
+        <div id="heading">
+          <h1>ROLLS-ROYCE GHOST</h1>
+          <div class="border"></div>
+        </div>
+        <div id="progress-container">
+          <div id="progress">Loading Model...</div>
+        </div>
+        <script>
+            function onOpenCvReady() {
+                console.log('OpenCV.js is ready');
+                // Create a custom event to notify when OpenCV is ready
+                document.dispatchEvent(new Event('opencv-ready'));
+            }
+        </script>
+		<script type="module" src="./main3.js"></script>
+	</body>
+</html>
