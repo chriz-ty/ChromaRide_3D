@@ -4,6 +4,7 @@
 
 ## Hosted Link is given below👇🏻:
 https://chroma-ride3d.vercel.app/
+(For the best experience, please open on a desktop as the models are resource-intensive.)
 
 ## Basic Details
 ### Team Name: Xplorers
@@ -21,6 +22,13 @@ In the realm of interactive web experiences, color detection and dynamic visual 
 
 ### The Solution (that nobody asked for)
 This project aims to address the challenge of integrating real-time color detection with 3D modeling in a web application. By leveraging Three.js and OpenCV.js, the objective is to create an immersive experience where the color of a person's outfit is detected through a webcam and dynamically applied to a 3D car model.. Our project seeks to overcome these limitations by providing a responsive, user-driven approach that transforms the color of a virtual car based on the user's real-time clothing color.
+
+### The Future Scope
+Adding a feature to download color-customized 3D models would expand the project’s applications across various fields. 
+- In game development, designers could easily create unique assets tailored to gameplay themes.
+- Web designers could use color-matched 3D models to align visuals with brand identities.
+- While e-commerce sites could let customers visualize products in different colors before purchase.
+- For web development, downloadable models would enhance interactive content creation, enabling immersive and personalized digital experiences across industries.
 
 ## Technical Details
 ### Technologies/Components Used
