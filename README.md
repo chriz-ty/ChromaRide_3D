@@ -105,7 +105,7 @@ For Software:
 *Demo 3*
 
 # Diagrams
-![Workflow](workflow.jgp)
+![Workflow](workflow.jpg)
 *Add caption explaining your workflow*
 
 
