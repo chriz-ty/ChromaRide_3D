@@ -74,12 +74,13 @@ For Software:
 - **File Structure:**
     ```
     /ChromaRide_3D
-    ├── /public             # Contains static files
+    ├── /public             # Contains static files and 3D models
     ├── /src                # Contains source code
     │   ├── /components     # React components
-    │   ├── /assets         # 3D models and images
-    │   └── index.tsx       # Entry point of the application
+        ....
+    │   └── /main.tsx       # Entry point of the application
     ├── package.json        # Project metadata and dependencies
+        ....
     └── README.md           # Project documentation
     ```
 
