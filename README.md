@@ -111,7 +111,7 @@ For Software:
 
 ### Project Demo
 # Video
-[demo(1)(1).mp4]
+[demo1.mp4]
 *Demo of the Web app that we've created*
 
 
