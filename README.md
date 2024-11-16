@@ -4,7 +4,7 @@
 
 ## Hosted Link is given below👇🏻:
 https://chroma-ride3d.vercel.app/
-- (For the best experience, please open on a desktop as the models are resource-intensive. After opening the model, please wait for 2 - 3 mins since it takes some time for the model to get loaded.)
+- (For the best experience, please open on a desktop as the models are resource-intensive. After opening the model, please wait for 2 - 3 mins since it may take some time for the model to get loaded and the camera to start.)
 
 ## Basic Details
 ### Team Name: Xplorers
@@ -50,7 +50,7 @@ For Software:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ChromaRide_3D.git
+    git clone https://github.com/chriz-ty/ChromaRide_3D.git
     cd ChromaRide_3D
     ```
 2. Install dependencies:
