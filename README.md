@@ -13,6 +13,7 @@ https://chroma-ride3d.vercel.app/
 ### Team Members
 - Team Lead: Christy Maria Sebastian - St. Joseph's College of Engineering and Technology, Palai.
 - Member 2: Anoop Kumar A - St. Joseph's College of Engineering and Technology, Palai.
+- GitHub: https://github.com/AnoopkumarA
 
 ### Project Description
 This project was created as part of the "Useless Projects" hackathon hosted by Tinkerhub. It's a fun experiment using Three.js and OpenCV.js to detect the color of a person's outfit in front of a camera and apply that color to a 3D car model.
