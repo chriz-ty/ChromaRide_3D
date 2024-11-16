@@ -126,6 +126,9 @@ For Software:
 https://github.com/user-attachments/assets/34cffa7c-9dcc-4669-8d65-2e53617b20b7
 
 )
+
+![video](https://youtu.be/LKQ8zzM5JFQ?si=91EsCQYh4u5zgdvb)
+
 *Demo of the Web app that we've created*
 
 
