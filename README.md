@@ -5,6 +5,7 @@
 ## Hosted Link is given below👇🏻:
 https://chroma-ride3d.vercel.app/
 - (For the best experience, please open on a desktop as the models are resource-intensive. After opening the model, please wait for 2 - 3 mins since it may take some time for the model to get loaded and the camera to start.)
+- (Try opening *BMW 1600 GTL* model since it could load faster compared to other models)
 
 ## Basic Details
 ### Team Name: Xplorers
